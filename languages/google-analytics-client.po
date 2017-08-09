@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ads-content\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-04 00:00-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Juraj Puchký <sjurajpuchky@seznam.cz>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/ads-contentWidget.php
+msgid "Title:"
+msgstr "Title:"
+
+msgid "Ad Content:"
+msgstr "Ad Content:"
+
+msgid "Ads Content"
+msgstr "Ads Content"
+
+msgid "Help users to put advertisment content as widget."
+msgstr "Help users to put advertisment content as widget."
+
+msgid "You can promote us with small link on bottom of ad."
+msgstr "You can promote us with small link on bottom of ad."
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Enable ads on tail"
+msgstr "Enable ads on tail"
+
+msgid "Enable center ads on head"
+msgstr "Enable center ads on head"
+
+msgid "Enable center ads on tail"
+msgstr "Enable center ads on tail"
+
+msgid "Enable ads on head"
+msgstr "Enable ads on head"
+
+msgid "Dashboard"
+msgstr "Dashboard"

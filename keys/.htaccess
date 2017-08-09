@@ -1,0 +1,6 @@
+Options All -Indexes
+
+<Files *.p12>
+order deny,allow
+deny from all
+</Files>

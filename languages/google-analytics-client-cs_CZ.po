@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ads-content\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-04 00:00-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Juraj Puchký <sjurajpuchky@seznam.cz>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/ads-contentWidget.php
+msgid "Title:"
+msgstr "Nadpis:"
+
+msgid "Ad Content:"
+msgstr "Obsah reklamy:"
+
+msgid "Ads Content"
+msgstr "Reklamní obsah"
+
+msgid "Help users to put advertisment content as widget."
+msgstr "Pomáhá uživatelům vložit reklamní obsah jako widget."
+
+msgid "You can promote us with small link on bottom of ad."
+msgstr "Můžete nás podpořit s málým odkazem umístěným pod reklamou."
+
+msgid "Page"
+msgstr "Stránka"
+
+msgid "Post"
+msgstr "Příspěvek"
+
+msgid "Update"
+msgstr "Nastavit"
+
+msgid "Enable ads on tail"
+msgstr "Povolit reklamu na zápatí"
+
+msgid "Enable ads on head"
+msgstr "Povolit reklamu na záhlaví"
+
+msgid "Enable center ads on head"
+msgstr "Povolit centrování reklamy v záhlaví"
+
+msgid "Enable center ads on tail"
+msgstr "Povolit centrování reklamy v zápatí"
+
+msgid "Dashboard"
+msgstr "Nástěnka"
